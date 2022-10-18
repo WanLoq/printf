@@ -2,7 +2,7 @@
 
 ## Description
 
-This team project is part of the first year curriculum of Holberton School.
+This team project is part of the Cohort 9 curriculum of ALX.
 `_printf` is a custom implementation of the standard C programming function `printf`.
 
 What you we were able to learn from this project:
